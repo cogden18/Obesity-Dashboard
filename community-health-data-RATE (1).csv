@@ -1,4 +1,4 @@
-﻿County Name,County Code,Region Name,Indicator Number,Indicator,Total Event Counts,Denominator,Denominator Note,Measure Unit,Percentage/Rate,95% CI,Data Comments,Data Years,Data Sources,Quartile,Mapping Distribution,Location
+﻿ County Name,County Code,Region Name,Indicator Number,Indicator,Total Event Counts,Denominator,Denominator Note,Measure Unit,Percentage/Rate,95% CI,Data Comments,Data Years,Data Sources,Quartile,Mapping Distribution,Location
 Western New York,101,Western New York,d1,"Cardiovascular disease mortality rate per 100,000",16787,1537947,Average annual population,Rate,363.8,,,2009-2011,"2009-2011 Vital Statistics Data as of February, 2013",,,
 Finger Lakes,102,Finger Lakes,d1,"Cardiovascular disease mortality rate per 100,000",10438,1271131,Average annual population,Rate,273.7,,,2009-2011,"2009-2011 Vital Statistics Data as of February, 2013",,,
 New York City,107,New York City,d1,"Cardiovascular disease mortality rate per 100,000",63606,8270641,Average annual population,Rate,256.4,,,2009-2011,"2009-2011 Vital Statistics Data as of February, 2013",,,
